@@ -1,0 +1,14 @@
+# ide
+.idea
+.vscode
+
+# OS General
+Thumbs.db
+.DS_Store
+
+# python
+__pycache__
+
+tmp
+
+.ipynb_checkpoints
