@@ -1,4 +1,4 @@
-# Notebooks
+# Zkpnuts
 The jupyter notebook repository for sharing
 
 ## Folder Structure
