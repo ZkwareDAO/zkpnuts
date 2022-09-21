@@ -9,4 +9,4 @@ The jupyter notebook repository for sharing
 └──      └── *
 ```
 ## Preview 
-[Google Colab](https://colab.research.google.com/github/ZkwareDAO/notebooks/blob/main)
+[Google Colab](https://colab.research.google.com/github/ZkwareDAO/zkpnuts/blob/main)
